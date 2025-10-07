@@ -28,3 +28,8 @@ img {
     width: 30%;
     margin-bottom: 20px;
 }
+
+.card {
+   position:relative
+}
+
