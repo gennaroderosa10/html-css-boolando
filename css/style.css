@@ -65,3 +65,31 @@ img {
     right: 0;
     padding: 5px;
 }
+
+.brand {
+
+}
+
+
+.modello {
+    font-weight: bold;    
+}
+
+.price {
+    display: flex;
+}
+
+.red-text {
+    color: red;
+    margin-right: 5px;
+}
+
+.cancellato {
+    text-decoration-line: line-through;
+}
+
+
+
+
+
+
